@@ -1,3 +1,6 @@
-# cv201718_assignments
+## Computer Vision WS17/18 FU Berlin
 
-This repository hold all assignments for the class "Computer Vision" in the winter term 2017/2018 at Institute for Computer Science, Freie Universität Berlin.
+This repository holds the excercises for the Computer Vision course at the FU Berlin at WS17/18.
+
+Contributors to the solutions were:
+[Cedric Laier](https://github.com/Rintel) & [Eva-Maria Herbst](https://github.com/samifalcon) & [Antje](https://github.com/goldaan)
